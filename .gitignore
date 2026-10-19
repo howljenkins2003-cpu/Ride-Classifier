@@ -3,3 +3,4 @@ __pycache__/
 .ipynb_checkpoints/
 moto_imu_sim/*.csv
 .~lock.*#
+moto_imu_sim_old/

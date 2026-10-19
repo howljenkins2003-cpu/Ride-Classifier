@@ -205,7 +205,7 @@ CONFIG = {
         "res_freq_hz": (50.0, 200.0),
         "res_q": (5.0, 20.0),
         "res_gain": (1.0, 3.0),
-        "handlebar_prob": 0.5,
+        "handlebar_prob": 1.0,
         "handlebar_gain": (1.6, 2.4),
         "rubber_prob": 0.4,
         "rubber_cutoff_hz": (35.0, 80.0),
