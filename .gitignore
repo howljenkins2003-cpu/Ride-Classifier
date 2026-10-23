@@ -4,3 +4,4 @@ __pycache__/
 moto_imu_sim/*.csv
 .~lock.*#
 moto_imu_sim_old/
+windows.csv
